@@ -1,0 +1,35 @@
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.4;
+}
+
+.background--afternoon-apricot {
+  background: linear-gradient(109deg, #ff796e, #ffab70);
+}
+.background--desert-flower {
+  background: linear-gradient(108deg, #d66f76, #e29587);
+}
+.background--purple-haze {
+  background: linear-gradient(109deg, #95a2da, #a99ad8);
+}
+.background--mountain-breeze {
+  background: linear-gradient(108deg, #19ac8a, #33e47f);
+}
+.background--mojo {
+  background: linear-gradient(109deg, #bc3543, #de4e43);
+}
+.background--aqua-ocean { 
+  background: linear-gradient(109deg, #5eafc6 ,#14c0c1);
+}
+
+#app {
+  width:80%; 
+  margin: 0 auto;
+}
