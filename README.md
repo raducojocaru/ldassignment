@@ -1,5 +1,8 @@
 # loan-dolphin
 
+## Info
+Created by Radu Cojocaru (raducojocaru@live.com) as a submission for the LoanDolphin front-end developer interviewing process
+
 ## Project setup
 ```
 npm install
@@ -14,16 +17,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
